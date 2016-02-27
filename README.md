@@ -13,12 +13,17 @@ Some of these are also reaped from pinned items in the [Rands Leadership Slack](
 
 ### Process
 
+* [The StackOverflow Interviewing Process](http://blog.stackoverflow.com/2016/02/the-stack-overflow-interviewing-process/)
+
 ### How to Think About Interviewing
 
 * [Work Rules!](http://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790)
 * [The Hiring Post](http://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 * [Smart, and Gets Things Done](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
 * [Done, and Gets Things Smart](http://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html)
+* [On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+* [How I Interview](https://rkoutnik.com/articles/How-I-Interview.html)
+* [Hiring Engineering Managers: Screening for Potential](http://www.elidedbranches.com/2016/01/hiring-engineering-managers-screening.html)
 
 ### Other Side of the Table
 
@@ -34,3 +39,4 @@ Also, some of these are fairly old, some of these are more geared toward senior 
 * [Retiring a Great Interview Problem](http://thenoisychannel.com/2011/08/08/retiring-a-great-interview-problem)
 * [New Interview Questions for Senior Software Engineers](http://www.hanselman.com/blog/NewInterviewQuestionsForSeniorSoftwareEngineers.aspx)
 * [Five Essential Phone Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+* [Rails Interview Questions](http://documentup.com/afeld/rails_interview_questions)
