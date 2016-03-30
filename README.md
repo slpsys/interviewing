@@ -30,6 +30,11 @@ Some of these are also reaped from pinned items in the [Rands Leadership Slack](
 * [Job Search Retrospective](http://juliepagano.com/blog/2015/08/15/job-search-retrospective/)
 * [Get That Job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 
+#### Reverse Interviewing
+
+* [14 ideas for what to say when a job interviewer asks “any questions for me?”](https://rooting-for-you.cenedella.com/14-ideas-for-what-to-say-when-a-job-interviewer-asks-any-questions-for-me-31b0ce03881a#.kl62xrrj6)
+* [Questions I'm Asking in Interviews](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
+
 ### Sample Questions
 
 **N.B.**: Do not actually use these, and _certainly_ do not just print them out and read off of them, heads down, in an interview or phone screen. I'm listing these because merely reading might be the spark that ignites a more interesting, or at least more personally-relevant, question.
