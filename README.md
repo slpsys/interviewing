@@ -22,7 +22,8 @@ Some of these are also reaped from pinned items in the [Rands Leadership Slack](
 * [Smart, and Gets Things Done](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
 * [Done, and Gets Things Smart](http://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html)
 * [On Being a Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
-* [How I Interview](https://rkoutnik.com/articles/How-I-Interview.html)
+* [How I Interview (Randall Koutnik)](https://rkoutnik.com/articles/How-I-Interview.html)
+* [How I Interview (Cate Huston)](http://www.catehuston.com/blog/2015/04/01/how-i-interview/)
 * [Hiring Engineering Managers: Screening for Potential](http://www.elidedbranches.com/2016/01/hiring-engineering-managers-screening.html)
 
 ### Other Side of the Table
