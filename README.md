@@ -25,6 +25,7 @@ Some of these are also reaped from pinned items in the [Rands Leadership Slack](
 * [How I Interview (Randall Koutnik)](https://rkoutnik.com/articles/How-I-Interview.html)
 * [How I Interview (Cate Huston)](http://www.catehuston.com/blog/2015/04/01/how-i-interview/)
 * [Hiring Engineering Managers: Screening for Potential](http://www.elidedbranches.com/2016/01/hiring-engineering-managers-screening.html)
+* [Google re:Work Interview Practices](https://rework.withgoogle.com/subjects/hiring/)
 
 ### Other Side of the Table
 
