@@ -10,6 +10,7 @@ Some of these are also reaped from pinned items in the [Rands Leadership Slack](
 
 
 ### Why This Shit Is Hard
+* [You Suck at Technical Interviews]()http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews
 
 ### Process
 
@@ -41,7 +42,7 @@ Some of these are also reaped from pinned items in the [Rands Leadership Slack](
 
 **N.B.**: Do not actually use these, and _certainly_ do not just print them out and read off of them, heads down, in an interview or phone screen. I'm listing these because merely reading might be the spark that ignites a more interesting, or at least more personally-relevant, question.
 
-Also, some of these are fairly old, some of these are more geared toward senior engineers, and some of these are may not be relevant, in any way, to what you do. Many of them also are gold mines containing links to _other great posts_. You could probably spend a noodling around.
+Also, some of these are fairly old, some of these are more geared toward senior engineers, and some of these are may not be relevant, in any way, to what you do. Many of them also are gold mines containing links to _other great posts_. You could probably spend a day noodling around.
 
 * [Retiring a Great Interview Problem](http://thenoisychannel.com/2011/08/08/retiring-a-great-interview-problem)
 * [New Interview Questions for Senior Software Engineers](http://www.hanselman.com/blog/NewInterviewQuestionsForSeniorSoftwareEngineers.aspx)
