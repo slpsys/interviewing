@@ -10,7 +10,7 @@ Some of these are also reaped from pinned items in the [Rands Leadership Slack](
 
 
 ### Why This Shit Is Hard
-* [You Suck at Technical Interviews]()http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews
+* [You Suck at Technical Interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews)
 
 ### Process
 
